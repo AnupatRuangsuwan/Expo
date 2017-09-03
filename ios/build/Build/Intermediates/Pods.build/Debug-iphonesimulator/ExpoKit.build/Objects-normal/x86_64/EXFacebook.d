@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXFacebook.m \
+  /Users/auiii/works/expo/Test/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXFacebook.h \
+  /Users/auiii/works/expo/Test/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/auiii/works/expo/Test/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/auiii/works/expo/Test/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/auiii/works/expo/Test/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCopying.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMacros.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkResolver.h \
+  /Users/auiii/works/expo/Test/ios/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkUtility.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMutableCopying.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginButton.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManager.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKTooltipView.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConstants.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManagerLoginResult.h \
+  /Users/auiii/works/expo/Test/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginTooltipView.h \
+  /Users/auiii/works/expo/Test/ios/Pods/Headers/Private/../Private/FBSDKCoreKit/FBSDKInternalUtility.h

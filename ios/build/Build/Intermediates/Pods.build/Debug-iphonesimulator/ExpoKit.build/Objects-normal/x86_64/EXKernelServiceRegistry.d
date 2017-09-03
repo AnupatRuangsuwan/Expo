@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelServiceRegistry.m \
+  /Users/auiii/works/expo/Test/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelServiceRegistry.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelBridgeRegistry.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Kernel/Core/EXKernelBridgeRecord.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXBranchManager.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXKernelService.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXErrorRecoveryManager.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXErrorRecovery.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/ScopedModule/EXScopedBridgeModule.h \
+  /Users/auiii/works/expo/Test/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/auiii/works/expo/Test/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/auiii/works/expo/Test/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/auiii/works/expo/Test/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/auiii/works/expo/Test/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/auiii/works/expo/Test/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/auiii/works/expo/Test/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Internal/EXScopedModuleRegistry.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXGoogleAuthManager.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXGoogle.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXKernelLinkingManager.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Internal/EXLinkingManager.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/ScopedModule/EXScopedEventEmitter.h \
+  /Users/auiii/works/expo/Test/node_modules/react-native/React/Modules/RCTEventEmitter.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/ReactAppManager/EXReactAppManager.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Api/EXCachedResource.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXUtil.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXKernelModuleManager.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Internal/EXKernelModule.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXRemoteNotificationManager.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXNotifications.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Kernel/Services/EXScreenOrientationManager.h \
+  /Users/auiii/works/expo/Test/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXScreenOrientation.h
