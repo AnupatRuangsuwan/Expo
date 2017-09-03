@@ -5,3 +5,4 @@ build
 ios/test/Supporting/EXBuildConstants.plist.bak
 ios/test.xcworkspace/xcuserdata/auiii.xcuserdatad/UserInterfaceState.xcuserstate
 ios/test.xcodeproj/project.xcworkspace/xcuserdata/auiii.xcuserdatad/UserInterfaceState.xcuserstate
+ios/test/.DS_Store
